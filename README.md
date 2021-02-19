@@ -7,6 +7,7 @@ languages:
 products:
   - azure
   - azure-app-service
+  - azure-app-service-static
 ---
 
 # Example Next.js Web Application
