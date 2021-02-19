@@ -1,3 +1,13 @@
+---
+page_type: sample
+description: Example Contoso real estate web application using Next.js framework designed for deployment to Azure App Service or Azure Static Web Apps.
+languages:
+  - javascript
+  - nodejs
+products:
+  - azure
+  - azure-app-service
+---
 
 # Contributing
 
