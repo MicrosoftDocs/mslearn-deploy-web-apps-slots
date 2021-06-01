@@ -9,7 +9,7 @@ products:
 description: Example Contoso real estate web application using Node.js designed for deployment to Azure App Service.
 ---
 
-# Example Next.js Web Application
+# Example Node.js Web Application
 
 Example Contoso real estate web application using Node.js designed for deployment to Azure App Service.
 
